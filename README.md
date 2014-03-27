@@ -23,4 +23,4 @@ Descargar https://raw.githubusercontent.com/Dedal0/FotoFuenteProtector/master/Fo
 
 Guardar como FotoFuenteProtector.py
 
-Ejecutar desdela terminal.
+Ejecutar desde el cmd.
