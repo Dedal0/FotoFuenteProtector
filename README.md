@@ -6,11 +6,18 @@ Herramienta para ver y modificar metadata de las fotos para ayudar a periodistas
 ¿Como usar desde Linux? (Solo consola)
 ======================================
 
-sudo apt-get install python-pyexiv2 
+Dependencias:
 
-wget https://raw.githubusercontent.com/Dedal0/FotoFuenteProtector/master/FotoFuenteProtector.py
+    sudo apt-get install python-pyexiv2 
 
-python FotoFuenteProtector.py
+Descargar:
+
+    wget https://raw.githubusercontent.com/Dedal0/FotoFuenteProtector/master/FotoFuenteProtector.py
+
+
+Usar:
+
+    python FotoFuenteProtector.py
 
 
 
